@@ -1,0 +1,34 @@
+# Build output
+bin/
+obj/
+
+# Publish output
+publish/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+
+# IDE/editor folders
+.vs/
+.vscode/
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# NuGet packages (when restored as packages folder)
+packages/
+
+# Test and coverage artifacts
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
