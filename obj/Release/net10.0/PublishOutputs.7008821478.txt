@@ -1,7 +1,0 @@
-C:\dev\ewu\app1\bin\Release\net10.0\publish\app1.exe
-C:\dev\ewu\app1\bin\Release\net10.0\publish\appsettings.Development.json
-C:\dev\ewu\app1\bin\Release\net10.0\publish\appsettings.json
-C:\dev\ewu\app1\bin\Release\net10.0\publish\app1.dll
-C:\dev\ewu\app1\bin\Release\net10.0\publish\app1.deps.json
-C:\dev\ewu\app1\bin\Release\net10.0\publish\app1.runtimeconfig.json
-C:\dev\ewu\app1\bin\Release\net10.0\publish\app1.pdb
